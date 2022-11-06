@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cs-minimal
+  namespace: default
+data:
+  foo: bar
